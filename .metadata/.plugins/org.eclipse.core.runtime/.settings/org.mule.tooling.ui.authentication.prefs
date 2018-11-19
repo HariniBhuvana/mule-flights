@@ -1,0 +1,5 @@
+authenticated.users=[{"id"\:"a8aa352f-4e02-4e66-9984-981ca6c3afdb","token"\:"ab9f8bed-788a-4fa5-bdf1-3fad0e18bca3","userId"\:"Harini_K","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=ab9f8bed-788a-4fa5-bdf1-3fad0e18bca3
+current.user=Harini_K
+eclipse.preferences.version=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"Harini_K"\:{"training-american-ws"\:"{\\"applicationName\\"\:\\"training-american-ws-harini\\",\\"muleRuntime\\"\:\\"3.9.1\\",\\"properties\\"\:{\\"env\\"\:\\"DEV\\"}}"}}}
